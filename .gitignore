@@ -1,0 +1,4 @@
+.env
+notepad .gitignore
+.streamlit/secrets.toml
+session_history.json
